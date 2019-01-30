@@ -1,0 +1,14 @@
+body{
+    background-image: url(http://sneakermyth.com/wp-content/uploads/2017/04/s258702199577610096_p142_i18_w800.jpeg);
+	text-align: center;
+}
+
+.text-muted{
+	color: brown;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
